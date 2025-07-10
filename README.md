@@ -7,7 +7,7 @@ This project presents an interactive Power BI dashboard that analyzes customer s
 ## Overview
 
 Using a cleaned and enriched dataset, the report categorizes customers by:
-- **Satisfaction Score** (on a 1–10 scale)
+- **Satisfaction Score** (on a 1â€“10 scale)
 - **Loyalty Level** (High, Medium, Low)
 - **Purchase Frequency Group** (Frequent, Regular)
 - **Support Interaction** (Contacted or Not)
@@ -53,12 +53,11 @@ Using a cleaned and enriched dataset, the report categorizes customers by:
 
 | KPI                     | Description                                  |
 |-------------------------|----------------------------------------------|
-| **Customer count**      | Total, repeat, new, male, female customers         |
-| **NPS**                 | Promoter % ? Detractor %                     |
+| **Customer count**      | Total, repeat, new, male, female customers   |
+| **NPS**                 | Promoter % - Detractor %                     |
 | **% Loyal Customers**   | Share of customers with high loyalty         |
 | **% At-Risk Customers** | Customers with low loyalty level             |
-| **Avg CSAT**            | Avg satisfaction score
-| 
+| **Avg CSAT**            | Average satisfaction score                   |
 | **Customer support rate** | Proportion of customers who contacted support|
 
 ---
@@ -71,8 +70,16 @@ Using a cleaned and enriched dataset, the report categorizes customers by:
 
 ---
 
+## Dashboard
+
+<img width="1438" height="810" alt="Report_SS_1" src="https://github.com/user-attachments/assets/571111cb-02f5-46e2-aa4b-eb8d7e0b52ce" />
+
+
+<img width="1538" height="866" alt="Report_SS_2" src="https://github.com/user-attachments/assets/608f89b8-b067-4890-b6b5-0fd6670a44b4" />
+
+
 
 ## Contact
 
-For suggestions, feedback, or collaboration, feel free to connect via [LinkedIn]( www.linkedin.com/in/dharmashree-nikalje).
+For suggestions, feedback, or collaboration, feel free to connect via [LinkedIn](https://www.linkedin.com/in/dharmashree-nikalje).
 
