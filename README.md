@@ -72,10 +72,22 @@ Using a cleaned and enriched dataset, the report categorizes customers by:
 
 ## Dashboard
 
+**Page 1**
+
 <img width="1438" height="810" alt="Report_SS_1" src="https://github.com/user-attachments/assets/571111cb-02f5-46e2-aa4b-eb8d7e0b52ce" />
 
 
 <img width="1538" height="866" alt="Report_SS_2" src="https://github.com/user-attachments/assets/608f89b8-b067-4890-b6b5-0fd6670a44b4" />
+
+---
+
+**Page 2**
+
+<img width="1438" height="808" alt="image" src="https://github.com/user-attachments/assets/32a7f638-a245-4821-a334-25dfbe585990" />
+
+<img width="1440" height="808" alt="image" src="https://github.com/user-attachments/assets/c85dd1ce-5824-4d6a-937e-33b240e4cd17" />
+
+
 
 
 
