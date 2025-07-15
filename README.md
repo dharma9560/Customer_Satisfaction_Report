@@ -85,7 +85,8 @@ Using a cleaned and enriched dataset, the report categorizes customers by:
 
 **Page 2**
 
-<img width="1602" height="865" alt="image" src="https://github.com/user-attachments/assets/daaaceba-cbbc-4774-b6ca-e078c9e999dc" />
+<img width="1600" height="862" alt="image" src="https://github.com/user-attachments/assets/7f3ee8b4-dc58-4984-8874-a648062c90e0" />
+
 
 
 <img width="1600" height="866" alt="image" src="https://github.com/user-attachments/assets/f236a030-1dbc-4321-b78a-19b002282b10" />
