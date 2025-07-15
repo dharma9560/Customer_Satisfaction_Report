@@ -74,21 +74,21 @@ Using a cleaned and enriched dataset, the report categorizes customers by:
 
 **Page 1**
 
-<img width="1438" height="810" alt="Report_SS_1" src="https://github.com/user-attachments/assets/571111cb-02f5-46e2-aa4b-eb8d7e0b52ce" />
+<img width="1602" height="863" alt="image" src="https://github.com/user-attachments/assets/c0ef9b9f-c134-4414-a017-c29d6a25adb0" />
 
 
-<img width="1538" height="866" alt="Report_SS_2" src="https://github.com/user-attachments/assets/608f89b8-b067-4890-b6b5-0fd6670a44b4" />
+
+<img width="1602" height="863" alt="image" src="https://github.com/user-attachments/assets/82a34a3a-c7c2-4258-9741-d0f7c153a09b" />
+
 
 ---
 
 **Page 2**
 
-<img width="1438" height="808" alt="image" src="https://github.com/user-attachments/assets/32a7f638-a245-4821-a334-25dfbe585990" />
-
-<img width="1440" height="808" alt="image" src="https://github.com/user-attachments/assets/c85dd1ce-5824-4d6a-937e-33b240e4cd17" />
+<img width="1602" height="865" alt="image" src="https://github.com/user-attachments/assets/daaaceba-cbbc-4774-b6ca-e078c9e999dc" />
 
 
-
+<img width="1600" height="866" alt="image" src="https://github.com/user-attachments/assets/f236a030-1dbc-4321-b78a-19b002282b10" />
 
 
 ## Contact
